@@ -1,0 +1,8 @@
+pymongo
+motor
+pyotp
+python-socketio
+pytz
+Requests
+streamlit
+websockets
